@@ -88,7 +88,21 @@
 
 ### Programming for Math and Statistic
 
-- Introductions to Scipy, Numpy
+- Introductions to Scipy, Numpy, Scipy
+- Integrating Pandas into Analysis
 - Introductions to Statistical Analysis in R
+- Scikit-learn: Packaged Machine Learning, and common patterns
+
+## Machine Learning Techniques
+
+- Supervised vs Unsupervised Learning
+- Optimization: Gradient Decent, Newtonian Decent
+- Linear Regression, Generalization and Regularization
+- Logistic Regression
+- Support Vector Machines
+- Neural Networks Introduction: Extension of Linear Models
+- Decision Trees: Purity Based Decision Learning
+- Tree Regularization: Ensembles to Improve Learning
+- Boosting, Bootstrap-Aggregating and Stacking
 
 
