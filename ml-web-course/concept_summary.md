@@ -139,8 +139,54 @@
 - Machine Learning and Neural Networks for Supervised Learning with Images
 - Optical Character Recognition: Finding Useful Text within Images
 
-###
+## Application Concepts
 
+### Microservices
 
+- Services over the localhost: Apps, APIs and Databases
+- Why Microservices? Common application patterns; Decoupling the Front End and Back End
 
+### APIs: Backend Application
 
+- The Restful API Framework
+- Types of Requests: Post, Get, Delete, Update, and Others
+- CRUD Framework
+- Pythonic APIs: Flask and FastAPI
+- Other API Servers: Node.js
+
+### Simple Frontend Applications
+
+- Pythonic, Servable Applications
+- Flask App Overview
+- Django App Overview
+- React.js
+- Server-Side vs Client-Side Applications
+- Integrating Apps with APIs
+
+### Security
+
+- OAuth Authentication Flow: Bearer Tokens
+- Cross Origin Resource Sharing: Serve the Requests you Intend
+
+## Code Management
+
+### Github Fundamentals
+
+- Overview of Github and Version Control
+- Git and GH CLIs
+- Gitflow and Branching: Working as a Team
+- Continuous Integration/Continuous Deployment
+
+## Moving to the Cloud
+
+### AWS
+
+- Overview of AWS Services and Common Uses
+- AWS CLI
+- AWS S3 Overview
+- AWS RDS Overview
+- AWS Lambda Overview
+- AWS EC2 Overview
+- AWS Elastic Beanstalk
+- Virtual Private Clouds and Security
+- AWS Cost Estimator
