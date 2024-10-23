@@ -190,3 +190,20 @@
 - AWS Elastic Beanstalk
 - Virtual Private Clouds and Security
 - AWS Cost Estimator
+
+## Working to Create Business Value
+
+### Upper Management Considerations
+
+- Technologically Advanced vs Useful
+- Project/Program Valuations: Revenue Upside, Cost Savings, and Creating Efficiencies
+
+### Execution Considerations
+
+- Environment Management: Sandboxes vs Production
+- Requirements Gathering: Agreement on the Direction
+- Design Phase
+- Project Management: Agile-Scrum and Shape-Up
+- Remarks on Iterative Development
+- User Acceptance Testing
+- Product Development Lifecycle
