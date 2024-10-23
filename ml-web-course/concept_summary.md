@@ -86,5 +86,9 @@
 - Time Series Analysis: Detrending, Seasonality, and Autocorrelation
 - Statistical Learning: Overfitting, Cross-Validation, and Evaluation Metrics
 
+### Programming for Math and Statistic
+
+- Introductions to Scipy, Numpy
+- Introductions to Statistical Analysis in R
 
 
