@@ -91,18 +91,56 @@
 - Introductions to Scipy, Numpy, Scipy
 - Integrating Pandas into Analysis
 - Introductions to Statistical Analysis in R
-- Scikit-learn: Packaged Machine Learning, and common patterns
 
 ## Machine Learning Techniques
 
+### Broad Machine Learning Concepts
+
 - Supervised vs Unsupervised Learning
+- Regression and Classification
+- Loss Functions
 - Optimization: Gradient Decent, Newtonian Decent
+- Feature Engineering: Transforms
+
+### Algorithms
+
 - Linear Regression, Generalization and Regularization
 - Logistic Regression
 - Support Vector Machines
 - Neural Networks Introduction: Extension of Linear Models
+- Spatial Analysis: KMeans, Hierarchical and Density-Based Clustering
+- K-Nearest-Neighbors: Spatial Supervised Learning
 - Decision Trees: Purity Based Decision Learning
 - Tree Regularization: Ensembles to Improve Learning
 - Boosting, Bootstrap-Aggregating and Stacking
+- Advanced Neural Networks: Image Processing, Regularization, and Sequencing Techniques; GPUs
+
+### Machine Learning Programming
+
+- Scikit-learn: Packaged Machine Learning, and common patterns
+- Pytorch Programming: Pythonic Modular Neural Networks
+
+### Natural Language and Text Processing
+
+- Basics of Text Cleaning
+- Preparing Text as Numeric: Tokenization, Encoding, Embedding
+- Package Overview: NLTK, Spacy
+- Sentiment Analysis: Lexicon-Based and Supervised Learning
+- Part of Speech Tagging: Syntax-Based Learning
+- Token Generation: How Can Algorithms "Talk"?
+
+### Image Processing
+
+- Reading Image Data into Code: RGB Channels
+- Basic Processing: Bounding Boxes, Scaling, Channel Conversion
+- Item Identification: Using Algorithms to Find an Object
+- PCA for Images: Noise Reduction, and Compression
+- Facial Recognition: Using Facial Embeddings
+- Machine Learning and Neural Networks for Supervised Learning with Images
+- Optical Character Recognition: Finding Useful Text within Images
+
+###
+
+
 
 
