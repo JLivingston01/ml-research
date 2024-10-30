@@ -4,8 +4,8 @@
 
 ### Environment Management
 
-- Virtual environments - pyenv, .venv
 - Package Management - Pip, Conda, Brew
+- Virtual environments - pyenv, .venv
 - IDEs - VSCode to Jupyter
 - Docker - Environments in a Container
 
